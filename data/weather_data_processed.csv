@@ -1,0 +1,6 @@
+City,Temperature_C,Humidity_pct,Weather_Condition,Wind_Speed_mps,Date_Time
+Lagos,24.69,89,overcast clouds,3.1,2026-08-19 18:12:55
+Abuja,23.6,94,overcast clouds,1.49,2026-08-19 18:17:36
+Kaduna,23.78,90,light rain,2.11,2026-08-19 18:14:06
+Kano,29.77,57,broken clouds,3.41,2026-08-19 18:15:07
+Maiduguri,32.39,44,scattered clouds,2.6,2026-08-19 18:17:02
